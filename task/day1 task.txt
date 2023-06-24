@@ -1,0 +1,35 @@
+
+ HTTP1.1
+
+ HTTP/1.1 was its 1st standardized version that was available for use in the year 1997 for the end-users.
+ This version presented considerable performance optimization over its precursors and changed how communication was
+ handled between clients and servers.
+ However, its key qualities opened the doors to many performance and API security loopholes.
+ This approach surely ensures good performance, but it also is problematic.
+ It uses text based commands for HTTP requests.
+ HTTP 1.1 introduced more detailed error codes and improved error handling, which can help developers troubleshoot and
+ resolve issues more quickly.
+
+
+
+ HTTP2
+
+ HTTP2 Released in February 2015 by the Internet Engineering Task Force (IETF) focussed on improving HTTP performance.
+ It is merely an extension, with all the core concepts such as HTTP methods, Status Codes, URL and Header Fields remaining
+ the same.
+ It allows Server Pushing to add responses proactively into the Browser cache.
+ As a result, web pages containing several elements are delivered over one TCP connection.
+ This allows browsers to display content without additional request cycles.
+ Web browsers only support HTTP/2 via encrypted connections, increasing user and application security.
+
+
+
+
+ Objects and its internal representation in Javascript
+
+ JavaScript is an open-source programming language. It is designed for creating web-centric applications.
+ It is lightweight and interpreted which makes it much faster than other languages.
+ JavaScript is an object-based language. Everything is an object in JavaScript.
+ JavaScript does not use classes and class inheritance. Instead an object in JavaScript has an internal property called 
+ its prototype that points to a second object from which the first object inherits properties.
+ Unlike other data types, objects are capable of storing complex values.
