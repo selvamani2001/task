@@ -1,0 +1,22 @@
+Document Object:
+
+ The document object represent a web page that is loaded in the browser.
+ Every web page resides inside a browser window which can be considered as an object.
+ Each HTML document that gets loaded into a window becomes a document object. The document contains the contents of 
+ the page.
+ Until the research for this article this was completely unknown to me, but actually this feature can be very practical.
+ The Document Object provides different collection elements, such as anchor and Links which helps you to count the 
+ number of specific elements on a form.
+ Document is an object inside the window object and we use a document object for manipulation inside the document.
+
+
+
+
+
+ Window Object:
+
+ The window object is the topmost object of the DOM hierarchy.
+ It represents a browser window or frame that displays the contents of the webpage. 
+ It returns a reference to the console object which provides access to the browser’s debugging console.
+ The JavaScript window object sits at the top of the JavaScript Object hierarchy and represents the browser window. 
+ All global JavaScript objects , functions, and variables automatically become members of the window object.
